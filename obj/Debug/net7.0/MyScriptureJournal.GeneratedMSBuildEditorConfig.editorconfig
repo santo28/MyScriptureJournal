@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MyScriptureJournal
+build_property.RootNamespace = MyScriptureJournal
+build_property.ProjectDir = /Users/marvinsantos/Documents/NET-Framework/MyScriptureJournal/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/marvinsantos/Documents/NET-Framework/MyScriptureJournal
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/marvinsantos/Documents/NET-Framework/MyScriptureJournal/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/marvinsantos/Documents/NET-Framework/MyScriptureJournal/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/marvinsantos/Documents/NET-Framework/MyScriptureJournal/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/marvinsantos/Documents/NET-Framework/MyScriptureJournal/Pages/Scriptures/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2NyaXB0dXJlcy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/marvinsantos/Documents/NET-Framework/MyScriptureJournal/Pages/Scriptures/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2NyaXB0dXJlcy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/marvinsantos/Documents/NET-Framework/MyScriptureJournal/Pages/Scriptures/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2NyaXB0dXJlcy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/marvinsantos/Documents/NET-Framework/MyScriptureJournal/Pages/Scriptures/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2NyaXB0dXJlcy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/marvinsantos/Documents/NET-Framework/MyScriptureJournal/Pages/Scriptures/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2NyaXB0dXJlcy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/marvinsantos/Documents/NET-Framework/MyScriptureJournal/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/marvinsantos/Documents/NET-Framework/MyScriptureJournal/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/marvinsantos/Documents/NET-Framework/MyScriptureJournal/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/marvinsantos/Documents/NET-Framework/MyScriptureJournal/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-s6mkmt7hfe
