@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
+      "Id": "/Users/marvinsantos/Documents/NET-Framework/MyScriptureJournal/wwwroot/css/site.min.css",
+      "PackagePath": "staticwebassets/css/site.min.css"
+    },
+    {
       "Id": "/Users/marvinsantos/Documents/NET-Framework/MyScriptureJournal/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
     },

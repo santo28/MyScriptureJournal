@@ -1,22 +1,94 @@
-html {
-  font-size: 14px;
-}
-
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
-}
-
-.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
-}
-
-html {
-  position: relative;
-  min-height: 100%;
-}
-
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
 body {
-  margin-bottom: 60px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background: #ECECEC;  
+    color: black;
+    font-family: 'McLaren', cursive;
+    font-size: 150%;
+}
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+
+/* Carousel */
+.carousel-caption p {
+    font-size: 20px;
+    line-height: 1.4;
+}
+
+/* Make .svg files in the carousel display properly in older browsers */
+.carousel-inner .item img[src$=".svg"] {
+    width: 100%;
+}
+
+/* QR code generator */
+#qrCode {
+    margin: 15px;
+}
+.navbar {
+    /* background: #40798C;*/
+    background: #376777;
+}
+.table th {
+    font-size: 1.2em;
+}
+.navbar li a {
+    color: black;
+}
+footer {
+    text-align: center;
+    font-size: smaller;
+    font-weight: bolder;
+}
+select, input {
+    background: #7EA5B2;
+    border: none;
+    border-bottom: 1px solid #376777;
+    box-shadow: 1px 1px 1px #666;
+    font-size: 1.1em;
+}
+
+.container {
+  width: 100%;
+}
+
+div.component1 {
+  float: left;
+  width: 40%;
+}
+
+p.component2 {
+  float: left;
+  width: 60%;
+}
+
+.container {
+  display: flex;
+}
+
+.component1 {
+  flex: 1;
+}
+
+.component2 {
+  flex: 1;
+}
+
+
+footer {
+  margin-left: 28%;
+}
+
+/* Hide/rearrange for smaller screens */
+@media screen and (max-width: 767px) {
+    /* Hide captions */
+    .carousel-caption {
+        display: none;
+    }
 }

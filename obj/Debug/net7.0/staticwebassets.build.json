@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "snmFIqhZ3uacUTpYk4qSkSzy+E11hZPkw0abnpOiboU=",
+  "Hash": "Mp6PKGNnsJNvQZzwnUlcOg0lqHge4/HNsRM8WmtCmQc=",
   "Source": "MyScriptureJournal",
   "BasePath": "_content/MyScriptureJournal",
   "Mode": "Default",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/site.css"
+    },
+    {
+      "Identity": "/Users/marvinsantos/Documents/NET-Framework/MyScriptureJournal/wwwroot/css/site.min.css",
+      "SourceId": "MyScriptureJournal",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/marvinsantos/Documents/NET-Framework/MyScriptureJournal/wwwroot/",
+      "BasePath": "_content/MyScriptureJournal",
+      "RelativePath": "css/site.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/site.min.css"
     },
     {
       "Identity": "/Users/marvinsantos/Documents/NET-Framework/MyScriptureJournal/wwwroot/favicon.ico",
